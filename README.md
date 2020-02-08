@@ -11,7 +11,7 @@ yarn add vue3-loading -S
 ```app.vue
 <script>
     mounted:{
-        this.bus.$emit('loading', true,'加载英雄列表中');
+        this.bus.$emit('loading', true,'拼命加载中');
     }
 </script>
 ```

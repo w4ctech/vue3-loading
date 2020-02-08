@@ -17,7 +17,7 @@
   "bugs": {
   "url": "https://github.com/w4ctech/vue3-loading/issues"
 },
-  "homepage": "https://github.com/w4cctech/vue3-loading#readme",
+  "homepage": "https://github.com/w4ctech/vue3-loading#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
